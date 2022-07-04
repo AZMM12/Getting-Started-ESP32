@@ -1,0 +1,33 @@
+:Author: azmm12
+:Email: {Abdulazizmmutiri@gmail.com}
+:Date: 04/07/2022
+:Revision: version#1
+:License: Public Domain
+
+= Project: {Synchronus_1}
+== Description of project:
+Getting started with ESP32 by connecting it and running simple blinking code.
+== Installation Steps:
+1. Open Arduino Application .
+2. Download ESP32 board information from Boards Manager from Tools Tap then Board then Boards Manager.
+3. From File Tap choose Examples Then "Basic" then "Blink" it will open 
+4. Connect the Part then choose the port connected to it .
+5. Choose Board "WEMOS D1 MINI ESP32" from Tools Tap then Board .
+6. Click on upload button then the part should function .
+
+=== Folder structure
+
+....
+ Synchronus_Mission_1                => Arduino sketch folder
+  ├── Synchronus_1.ino       => main Arduino file
+  ├── Synch_1.png      => (optional) an image of the required schematics
+  └── ReadMe.adoc         => this file
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
