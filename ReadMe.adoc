@@ -6,6 +6,7 @@
 === License: Public Domain .
 == Description of project:
 Getting started with ESP32 by connecting it and running simple blinking code.
+
 == Installation Steps:
 1. Open Arduino Application .
 2. Download ESP32 board information from Boards Manager from Tools Tap then Board then Boards Manager.
