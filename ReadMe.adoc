@@ -1,10 +1,11 @@
-:Author: azmm12
-:Email: {Abdulazizmmutiri@gmail.com}
-:Date: 06/07/2022
-:Revision: version#1
-:License: Public Domain
+
 
 = Project: {Synchronus_1}
+====Author: azmm12
+====Email: {Abdulazizmmutiri@gmail.com}
+====Date: 06/07/2022
+====Revision: version#1
+====License: Public Domain
 == Description of project:
 Getting started with ESP32 by connecting it and running simple blinking code.
 == Installation Steps:
