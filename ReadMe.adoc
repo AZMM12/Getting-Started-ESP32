@@ -1,5 +1,3 @@
-
-
 = Project: {Synchronus_1}
 === Author: azmm12 .
 === Email: {Abdulazizmmutiri@gmail.com} .
