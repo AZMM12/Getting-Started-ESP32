@@ -1,9 +1,11 @@
 = Project: {Synchronus_1}
+
 === Author: azmm12 .
 === Email: {Abdulazizmmutiri@gmail.com} .
 === Date: 05/07/2022 .
 === Revision: version#1 .
 === License: Public Domain .
+
 == Description of project:
 Getting started with ESP32 by connecting it and running simple blinking code.
 
@@ -18,10 +20,10 @@ Getting started with ESP32 by connecting it and running simple blinking code.
 === Folder structure
 
 ....
- Synchronus_Mission_1                => Arduino sketch folder
-  ├── Synchronus_1.ino       => main Arduino file
-  ├── Synch_1.png      => (optional) an image of the required schematics
-  └── ReadMe.adoc         => this file
+ Synchronus_Mission_1     => Arduino sketch folder
+  ├── Synchronus_1.ino    => main Arduino file
+  ├── Synch_1.png         => an image of the required schematics
+  └── ReadMe.adoc         => Readme file
 ....
 
 === Contributing
