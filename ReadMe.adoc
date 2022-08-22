@@ -1,4 +1,4 @@
-= Project: {Synchronus_1}
+= Project: {Getting-Started-ESP32}
 
 === Author: azmm12 .
 === Email: {Abdulazizmmutiri@gmail.com} .
@@ -25,11 +25,3 @@ Getting started with ESP32 by connecting it and running simple blinking code.
   ├── Synch_1.png         => an image of the required schematics
   └── ReadMe.adoc         => Readme file
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
